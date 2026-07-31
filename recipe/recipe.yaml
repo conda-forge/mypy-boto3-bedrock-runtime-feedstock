@@ -2,7 +2,7 @@
 schema_version: 1
 
 context:
-  version: "1.43.30"
+  version: "1.43.62"
 
 package:
   name: mypy-boto3-bedrock-runtime
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/m/mypy-boto3-bedrock-runtime/mypy_boto3_bedrock_runtime-${{ version }}.tar.gz
-  sha256: e7f50e6cb125da7a0807c364ba6a8fcac67e01e5268aee97c62b92f75fd77049
+  sha256: beb70b08ef72cdfd5036bcd3270f2fbac0a2ce5e40f70dfc1d87c4f139d4d7ff
 
 build:
   number: 0
